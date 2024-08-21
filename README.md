@@ -23,10 +23,6 @@ The final model architecture consists of the following layers:
 
 The model was trained using the Adam optimizer and binary cross-entropy loss. Data augmentation techniques, such as horizontal flipping, rotation, and zoom, were applied to the training data to improve the model's generalization. The model was evaluated on the test set, achieving an accuracy of 96.66%.
 
-## Usage
-
-To use the model, you can load the pre-trained weights and apply the model to new MRI images. The code for loading the model and making predictions is provided in the accompanying Jupyter Notebook.
-
 ## Conclusion
 
 This project demonstrates the potential of deep learning techniques in the medical domain, specifically for the early detection of brain tumors. The trained model can be used as a tool to assist medical professionals in making more accurate and timely diagnoses.
