@@ -25,4 +25,4 @@ The model was trained using the Adam optimizer and binary cross-entropy loss. Da
 
 ## Conclusion
 
-This project demonstrates the potential of deep learning techniques in the medical domain, specifically for the early detection of brain tumors. The trained model can be used as a tool to assist medical professionals in making more accurate and timely diagnoses.
+This project demonstrates the potential of deep learning techniques in the medical domain, specifically for the early detection of brain tumors. The trained model demonstrated that these tools can be highly effective in aiding the early diagnosis of brain cancer.
